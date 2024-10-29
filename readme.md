@@ -12,3 +12,13 @@ pip install -r requirements.txt
 ```
 ## Citation
 If you find our paper/code useful, please consider citing our work:
+```
+@inproceedings{ding2024cross,
+  title={Cross-Modality Cardiac Insight Transfer: A Contrastive Learning Approach to Enrich ECG with CMR Features},
+  author={Ding, Zhengyao and Hu, Yujian and Li, Ziyu and Zhang, Hongkun and Wu, Fei and Xiang, Yilang and Li, Tian and Liu, Ziyi and Chu, Xuesen and Huang, Zhengxing},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={109--119},
+  year={2024},
+  organization={Springer}
+}
+```
